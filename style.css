@@ -1,0 +1,17 @@
+
+body { 
+ font-family:verdana; 
+ font-size:11px;  
+} 
+a { 
+ color:#ffbf00; 
+ text-decoration:underline; 
+}
+a:hover {
+ color:#ffffff;
+ background-color:#e6f600;
+ text-decoration:none;
+}
+input, textarea, select, option {
+ font-family:verdana; 
+} 
